@@ -28,7 +28,7 @@ WHEREIS1000GENOMES="/projects/kg98/aurina/GWAS/data/enigma/1KGPref"
 ##http://enigma.ini.usc.edu/wp-content/uploads/2012/07/HM3.bim.gz
 ##http://enigma.ini.usc.edu/wp-content/uploads/2012/07/HM3.fam.gz
 ###1000 genomes EUR samples ## save to WHEREIS1000GENOMES
-##ttp://enigma.ini.usc.edu/wp-content/uploads/2012/07/v3.20101123.ENIGMA2.EUR.20120719.vcf.tgz
+##http://enigma.ini.usc.edu/wp-content/uploads/2012/07/v3.20101123.ENIGMA2.EUR.20120719.vcf.tgz
 ##http://enigma.ini.usc.edu/wp-content/uploads/2012/07/v3.20101123.ENIGMA2.EUR.20120719.extras.tgz
 ##tar -zxvf v3.20101123.ENIGMA2.EUR.20120719.vcf.tgz
 ##tar -zxvf v3.20101123.ENIGMA2.EUR.20120719.extras.tgz
